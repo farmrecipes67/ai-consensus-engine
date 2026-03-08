@@ -1,0 +1,15 @@
+{
+  "name": "ai-consensus-engine",
+  "version": "1.0.0",
+  "description": "Multi-model consensus engine to reduce AI hallucinations through provider agreement",
+  "main": "src/index.js",
+  "keywords": [
+    "ai",
+    "consensus",
+    "multi-model",
+    "hallucination",
+    "verification",
+    "llm"
+  ],
+  "license": "MIT"
+}
